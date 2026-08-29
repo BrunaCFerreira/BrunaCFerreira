@@ -52,9 +52,8 @@ Me chamo Bruna Correia Ferreira, sou graduanda em Licenciatura em Ciência da Co
 <br/>
 
 ### 📊 Estatísticas
-
 <p align="left">
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunaCFerreira&show_icons=true&include_all_commits=true&locale=pt-br&title_color=C2185B&icon_color=FF69B4&text_color=C2185B&border_color=FF69B4&bg_color=000000" alt="Estatísticas do GitHub" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api?username=BrunaCFerreira&show_icons=true&include_all_commits=true&locale=pt-br&title_color=C2185B&icon_color=FF69B4&text_color=C2185B&border_color=FF69B4&bg_color=000000" alt="Estatísticas do GitHub" />
   
-  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunaCFerreira&layout=compact&custom_title=Tecnologias&langs_count=10&title_color=C2185B&icon_color=FF69B4&text_color=C2185B&border_color=FF69B4&bg_color=000000" alt="Top Linguagens" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BrunaCFerreira&layout=compact&custom_title=Tecnologias&langs_count=10&title_color=C2185B&icon_color=FF69B4&text_color=C2185B&border_color=FF69B4&bg_color=000000" alt="Top Linguagens" />
 </p>
