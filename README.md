@@ -5,11 +5,9 @@
 Me chamo Bruna Correia Ferreira, sou graduanda em Licenciatura em Ciência da Computação pela Universidade de Pernambuco (UPE). Concluí o ensino médio integrado ao técnico em Agroindústria no Instituto Federal de Pernambuco (IFPE) - Campus Vitória de Santo Antão. Sou completamente apaixonada por tecnologia e atualmente desenvolvo competências voltadas à própria área de Tecnologia, mas não me limito somente a ela e me volto também para a área de Educação.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bruna-correia-40801b2ba/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://api.iconify.design/mdi:linkedin.svg?color=%23C2185B"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_bruna.cf/"><img width="32px" alt="Instagram" title="Instagram" src="https://api.iconify.design/mdi:instagram.svg?color=%23FF69B4"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=brucorreiaferreira@gmail.com" target="_blank"><img width="32px" alt="Email" title="E-mail" src="https://api.iconify.design/mdi:email.svg?color=%23C2185B"/></a>
+  <a href="https://www.linkedin.com/in/bruna-correia-ferreira-40801b2ba"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-C2185B?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_bruna.cf/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:brucorreiaferreira@gmail.com"><img alt="Email" title="E-mail" src="https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
